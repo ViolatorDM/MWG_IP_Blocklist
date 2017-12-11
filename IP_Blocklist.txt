@@ -1,0 +1,4 @@
+type=ip
+"1.2.3.4" "Test IP Address"
+"2.3.4.5" "Test IP Address"
+"4.4.4.4" "Test IP Address"
