@@ -1,4 +1,4 @@
 type=ip
-"1.2.3.4" "Test IP Address"
-"2.3.4.5" "Test IP Address"
-"4.4.4.4" "Test IP Address"
+"192.168.1.1" "whatever"
+"192.168.2.2" "whatever"
+"192.168.3.3" "whatever"
